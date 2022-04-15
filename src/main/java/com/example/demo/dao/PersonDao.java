@@ -21,5 +21,5 @@ public interface PersonDao {
 
     int deletePersonById(UUID id);
 
-    int updatePerosnById(UUID id, Person person);
+    int updatePersonById(UUID id, Person person);
 }
